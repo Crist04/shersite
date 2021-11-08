@@ -1,0 +1,59 @@
+{
+  "main": {
+    "name":"Shreyash Dewangan",
+    "occupation":"Full-Stack Web Developer",
+    "description":"jbeibfbvrbvbregourebutrgitrhneugbyawfygawrhgfugquyfgery",
+    "image":"profilepic.jpg",
+    "contactmessage":"Have me make stuff for you. If you like my work and have some cool projects to work on, just send me a direct message or contact me through social sites.",
+    "email": "shreyashdewangan1234@gmail.com",
+    "phone": "1234567890",
+    "address":{
+      "city":"Durg",
+      "state":"India",
+      "zip": "491001"
+    },
+    "website": "https://www.alex-portfolio.org/",
+    "resumedownload":"https://drive.google.com/uc?export=pdf&id=1Z5hSjSXwjk3i4BdCfehg0YSAKZ34BDfC",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"h",
+        "className":"fa fa-github"
+      },
+     
+      {
+        "name":"email",
+        "url":"mailto:shreyashdewangan1234@gmail.copm?subject=The%20subject%20of%20the%20mail",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"jrbjgrng",
+        "degree":"jbrogvnrongr",
+        "graduated":"cejwbfwEF",
+        "description":"hivfieworkoegnorngitgiotnjgbgbtgutgtuf"
+      },
+      {
+        "school":"Pnjgb",
+        "degree":"frhigbfrgbiurtb",
+        "graduated":"fnjrgntng",
+        "description":"The first joberscifruigbguh5eughrtughotuhms."
+      }
+    ]
+    
+  }
+  
+}
